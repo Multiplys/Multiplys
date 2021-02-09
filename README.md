@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋    [![HitCount](http://hits.dwyl.com/Multiplys/Multiplys.svg)](https://github.com/Multiplys)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Multiplys&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Multiplys)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Multiplys.github.io&show_owner=true&theme=dark)](https://github.com/Multiplys/Multiplys.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Multiplys&theme=dark&layout=compact)](https://github.com/Multiplys)
 
 <!--
 **Multiplys/Multiplys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
