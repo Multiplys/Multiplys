@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Multiplys&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Multiplys)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Multiplys.github.io&show_owner=true&theme=dark)](https://github.com/Multiplys/Multiplys.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Programming_Learning&show_owner=true&theme=dark)](https://github.com/Multiplys/Programming_Learnin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Multiplys&theme=dark&layout=compact)](https://github.com/Multiplys)
 
