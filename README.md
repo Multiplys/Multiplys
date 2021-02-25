@@ -1,10 +1,10 @@
 ### Hi there 👋    [![HitCount](http://hits.dwyl.com/Multiplys/Multiplys.svg)](https://github.com/Multiplys)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Multiplys&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Multiplys)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Programming_Learning&show_owner=true&theme=dark)](https://github.com/Multiplys/Programming_Learnin)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Information_Security_Learning&show_owner=true&theme=dark)](https://github.com/Multiplys/Information_Security_Learning)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Multiplys&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Multiplys)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Multiplys&theme=dark&layout=compact)](https://github.com/Multiplys)
 
