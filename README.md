@@ -4,6 +4,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Programming_Learning&show_owner=true&theme=dark)](https://github.com/Multiplys/Programming_Learnin)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplys&repo=Information_Security_Learning&show_owner=true&theme=dark)](https://github.com/Multiplys/Information_Security_Learning)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Multiplys&theme=dark&layout=compact)](https://github.com/Multiplys)
 
 <!--
